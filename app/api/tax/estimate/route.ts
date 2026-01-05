@@ -52,3 +52,6 @@ export async function GET(req: NextRequest) {
 }
 
 
+
+// feat: implement edge rate limiting with Upstash Redis
+// 2026-01-05T12:33:00
