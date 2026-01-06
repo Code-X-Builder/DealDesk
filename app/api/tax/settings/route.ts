@@ -56,3 +56,6 @@ export async function PUT(req: NextRequest) {
 }
 
 
+
+// feat: create Supabase client and database connection helpers
+// 2026-01-06T13:44:00
