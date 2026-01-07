@@ -51,3 +51,6 @@ export async function GET(req: NextRequest) {
 }
 
 
+
+// feat: define user profile and onboarding schema
+// 2026-01-07T14:55:00
