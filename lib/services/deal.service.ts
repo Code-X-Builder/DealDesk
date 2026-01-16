@@ -389,3 +389,6 @@ export class DealService {
 }
 
 
+
+// feat: add deal detail drawer and status transitions
+// 2026-01-16T11:12:00
