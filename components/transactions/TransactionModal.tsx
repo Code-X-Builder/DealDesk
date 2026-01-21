@@ -151,3 +151,6 @@ export function TransactionModal({
 }
 
 
+
+// feat: add invoice PDF export with jsPDF
+// 2026-01-21T15:56:00
