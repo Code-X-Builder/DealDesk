@@ -82,3 +82,6 @@ export async function POST(req: NextRequest) {
 
 // feat: bootstrap Next.js 14 App Router with TypeScript strict mode
 // 2026-01-01T09:00:00
+
+// feat: add expense breakdown by category
+// 2026-02-01T14:35:00
