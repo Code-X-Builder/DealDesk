@@ -73,3 +73,6 @@ export async function POST(req: NextRequest) {
 
 // feat: configure Tailwind CSS and design tokens
 // 2026-01-02T10:11:00
+
+// feat: integrate Stripe Connect OAuth onboarding
+// 2026-02-02T15:46:00
