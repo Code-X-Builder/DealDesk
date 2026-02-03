@@ -63,3 +63,6 @@ export async function POST(req: NextRequest) {
 
 // feat: add Auth0 session middleware and route protection
 // 2026-01-03T11:22:00
+
+// feat: handle signed Stripe webhooks idempotently
+// 2026-02-03T16:57:00
