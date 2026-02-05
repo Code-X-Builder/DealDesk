@@ -59,3 +59,6 @@ export async function PUT(req: NextRequest) {
 
 // feat: create Supabase client and database connection helpers
 // 2026-01-06T13:44:00
+
+// feat: encrypt sensitive fields with AES-256-GCM
+// 2026-02-05T18:19:00
