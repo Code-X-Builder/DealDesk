@@ -54,3 +54,6 @@ export async function GET(req: NextRequest) {
 
 // feat: define user profile and onboarding schema
 // 2026-01-07T14:55:00
+
+// feat: centralize branding in config module
+// 2026-02-07T09:30:00
