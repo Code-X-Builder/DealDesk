@@ -65,3 +65,6 @@ export async function POST(req: NextRequest) {
 
 // feat: build users/me profile endpoint
 // 2026-01-08T15:06:00
+
+// feat: add feature flags for demo YouTube and Plaid
+// 2026-02-08T10:41:00
