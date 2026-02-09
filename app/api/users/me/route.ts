@@ -97,3 +97,6 @@ export async function PATCH(req: NextRequest) {
 
 // feat: implement onboarding completion flow
 // 2026-01-09T16:17:00
+
+// feat: create responsive sidebar and mobile navigation
+// 2026-02-09T11:52:00
