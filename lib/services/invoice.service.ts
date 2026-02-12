@@ -442,3 +442,6 @@ export class InvoiceService {
 
 // feat: add create and edit transaction modal
 // 2026-01-12T18:39:00
+
+// feat: add keyboard shortcuts across dashboard
+// 2026-02-12T13:14:00
