@@ -538,3 +538,6 @@ export class PaymentService {
 
 // feat: implement transaction CRUD API routes
 // 2026-01-13T09:50:00
+
+// feat: show demo-mode banner when enabled
+// 2026-02-13T14:25:00
