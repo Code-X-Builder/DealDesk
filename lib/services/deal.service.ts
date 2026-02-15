@@ -392,3 +392,6 @@ export class DealService {
 
 // feat: add deal detail drawer and status transitions
 // 2026-01-16T11:12:00
+
+// feat: keep route handlers thin with Zod validation
+// 2026-02-15T16:47:00
