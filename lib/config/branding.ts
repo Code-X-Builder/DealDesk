@@ -25,3 +25,6 @@ export const branding = {
 
 // feat: implement deals CRUD with pipeline stages
 // 2026-01-17T12:23:00
+
+// feat: add loading skeletons for data-heavy pages
+// 2026-02-17T17:58:00
