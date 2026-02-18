@@ -21,3 +21,6 @@ export function isPlaidEnabled(): boolean {
 
 // feat: create invoice builder with live preview
 // 2026-01-18T13:34:00
+
+// feat: implement Zustand stores for client state
+// 2026-02-18T18:09:00
