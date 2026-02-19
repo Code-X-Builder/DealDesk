@@ -72,3 +72,6 @@ export function decryptSensitive(payload: string): string {
 
 // feat: recompute invoice totals on the server
 // 2026-01-19T14:45:00
+
+// feat: wire TanStack Query for server state
+// 2026-02-19T09:20:00
