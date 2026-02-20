@@ -154,3 +154,6 @@ export function TransactionModal({
 
 // feat: add invoice PDF export with jsPDF
 // 2026-01-21T15:56:00
+
+// feat: create shared UI components and layout shells
+// 2026-02-20T10:31:00
