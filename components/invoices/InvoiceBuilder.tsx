@@ -387,3 +387,6 @@ export function InvoiceBuilder({
 
 // feat: build tax center quarterly estimate engine
 // 2026-01-23T17:18:00
+
+// feat: support income and expense type filters
+// 2026-02-23T12:53:00
