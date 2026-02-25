@@ -220,3 +220,6 @@ export function RevenueChart({
 
 // feat: cache tax estimates in Redis
 // 2026-01-25T09:40:00
+
+// feat: add invoice line items and tax rate handling
+// 2026-02-25T14:15:00
