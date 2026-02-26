@@ -106,3 +106,6 @@ export function Sidebar() {
 
 // feat: add tax settings for filing status and preferences
 // 2026-01-27T10:51:00
+
+// feat: compute subtotal tax and total authoritatively
+// 2026-02-26T15:26:00
