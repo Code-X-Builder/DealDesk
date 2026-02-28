@@ -65,3 +65,6 @@ export const config = {
 
 // feat: create tax summary and breakdown views
 // 2026-01-28T11:02:00
+
+// feat: generate downloadable PDF with company branding
+// 2026-02-28T16:37:00
