@@ -1878,3 +1878,6 @@ EMAIL_FROM=noreply@creatorhub.com
 **This SRS provides all technical specifications needed for Cursor AI to begin development. Start with Module 1 (Authentication) and proceed sequentially through each module.**
 // feat: build analytics overview KPI cards
 // 2026-01-29T12:13:00
+
+// feat: support quarterly tax estimate by year and quarter
+// 2026-03-01T17:48:00
