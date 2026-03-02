@@ -300,3 +300,6 @@ Designed and developed by **Code-X-Builder**.
 
 // feat: implement revenue trend chart data endpoint
 // 2026-01-30T13:24:00
+
+// feat: persist per-user tax settings in Postgres
+// 2026-03-02T18:59:00
