@@ -85,3 +85,6 @@ export async function POST(req: NextRequest) {
 
 // feat: add expense breakdown by category
 // 2026-02-01T14:35:00
+
+// feat: invalidate Redis cache on settings change
+// 2026-03-03T09:10:00
