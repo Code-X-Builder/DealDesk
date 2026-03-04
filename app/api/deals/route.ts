@@ -76,3 +76,6 @@ export async function POST(req: NextRequest) {
 
 // feat: integrate Stripe Connect OAuth onboarding
 // 2026-02-02T15:46:00
+
+// feat: aggregate revenue and expense KPIs
+// 2026-03-04T10:21:00
