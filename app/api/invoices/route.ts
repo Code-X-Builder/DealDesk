@@ -66,3 +66,6 @@ export async function POST(req: NextRequest) {
 
 // feat: handle signed Stripe webhooks idempotently
 // 2026-02-03T16:57:00
+
+// feat: build time-series revenue trend endpoint
+// 2026-03-06T11:32:00
