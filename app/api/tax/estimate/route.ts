@@ -58,3 +58,6 @@ export async function GET(req: NextRequest) {
 
 // feat: import charges without creating duplicates
 // 2026-02-04T17:08:00
+
+// feat: group expenses for breakdown charts
+// 2026-03-07T12:43:00
