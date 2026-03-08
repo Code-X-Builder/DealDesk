@@ -62,3 +62,6 @@ export async function PUT(req: NextRequest) {
 
 // feat: encrypt sensitive fields with AES-256-GCM
 // 2026-02-05T18:19:00
+
+// feat: start Stripe Connect account linking
+// 2026-03-08T13:54:00
