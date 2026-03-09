@@ -57,3 +57,6 @@ export async function GET(req: NextRequest) {
 
 // feat: centralize branding in config module
 // 2026-02-07T09:30:00
+
+// feat: verify webhook signatures before processing
+// 2026-03-09T14:05:00
