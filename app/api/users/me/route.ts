@@ -100,3 +100,6 @@ export async function PATCH(req: NextRequest) {
 
 // feat: create responsive sidebar and mobile navigation
 // 2026-02-09T11:52:00
+
+// feat: ignore events without a linked user
+// 2026-03-12T16:27:00
