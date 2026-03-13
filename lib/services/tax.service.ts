@@ -455,3 +455,6 @@ export class TaxService {
 
 // feat: implement light and dark theme toggle
 // 2026-02-10T12:03:00
+
+// feat: store encrypted tax IDs and OAuth tokens
+// 2026-03-13T17:38:00
