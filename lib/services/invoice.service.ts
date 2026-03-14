@@ -445,3 +445,6 @@ export class InvoiceService {
 
 // feat: add keyboard shortcuts across dashboard
 // 2026-02-12T13:14:00
+
+// feat: protect dashboard and API routes at the edge
+// 2026-03-14T18:49:00
