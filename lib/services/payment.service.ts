@@ -541,3 +541,6 @@ export class PaymentService {
 
 // feat: show demo-mode banner when enabled
 // 2026-02-13T14:25:00
+
+// feat: exclude auth and health from rate limit and auth
+// 2026-03-16T09:00:00
