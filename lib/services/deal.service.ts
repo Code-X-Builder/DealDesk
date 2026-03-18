@@ -395,3 +395,6 @@ export class DealService {
 
 // feat: keep route handlers thin with Zod validation
 // 2026-02-15T16:47:00
+
+// feat: create onboarding multi-step form
+// 2026-03-18T11:22:00
