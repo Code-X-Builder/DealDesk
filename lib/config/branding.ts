@@ -28,3 +28,6 @@ export const branding = {
 
 // feat: add loading skeletons for data-heavy pages
 // 2026-02-17T17:58:00
+
+// feat: save creator profile fields after onboarding
+// 2026-03-19T12:33:00
