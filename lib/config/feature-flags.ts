@@ -24,3 +24,6 @@ export function isPlaidEnabled(): boolean {
 
 // feat: implement Zustand stores for client state
 // 2026-02-18T18:09:00
+
+// feat: improve error mapping and consistent API errors
+// 2026-03-20T13:44:00
