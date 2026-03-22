@@ -75,3 +75,6 @@ export function decryptSensitive(payload: string): string {
 
 // feat: wire TanStack Query for server state
 // 2026-02-19T09:20:00
+
+// feat: add request validation for all write endpoints
+// 2026-03-22T14:55:00
