@@ -157,3 +157,6 @@ export function TransactionModal({
 
 // feat: create shared UI components and layout shells
 // 2026-02-20T10:31:00
+
+// feat: implement soft delete for transactions and deals
+// 2026-03-23T15:06:00
