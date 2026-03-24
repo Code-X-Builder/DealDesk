@@ -4,3 +4,6 @@
 
 // feat: add transaction category management
 // 2026-02-21T11:42:00
+
+// feat: support date range filters on transactions
+// 2026-03-24T16:17:00
