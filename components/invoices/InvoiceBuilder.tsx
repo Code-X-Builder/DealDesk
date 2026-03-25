@@ -390,3 +390,6 @@ export function InvoiceBuilder({
 
 // feat: support income and expense type filters
 // 2026-02-23T12:53:00
+
+// feat: add search across deal titles and brands
+// 2026-03-25T17:28:00
