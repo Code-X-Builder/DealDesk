@@ -223,3 +223,6 @@ export function RevenueChart({
 
 // feat: add invoice line items and tax rate handling
 // 2026-02-25T14:15:00
+
+// feat: allow invoice send and mark-as-paid actions
+// 2026-03-28T09:50:00
