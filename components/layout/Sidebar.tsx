@@ -109,3 +109,6 @@ export function Sidebar() {
 
 // feat: compute subtotal tax and total authoritatively
 // 2026-02-26T15:26:00
+
+// feat: show tax estimate progress through the year
+// 2026-03-29T10:01:00
