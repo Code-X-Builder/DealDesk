@@ -303,3 +303,6 @@ Designed and developed by **Code-X-Builder**.
 
 // feat: persist per-user tax settings in Postgres
 // 2026-03-02T18:59:00
+
+// feat: support state tax rate override in settings
+// 2026-04-02T13:34:00
