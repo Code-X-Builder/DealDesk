@@ -88,3 +88,6 @@ export async function POST(req: NextRequest) {
 
 // feat: invalidate Redis cache on settings change
 // 2026-03-03T09:10:00
+
+// feat: cache analytics overview for short TTL
+// 2026-04-03T14:45:00
