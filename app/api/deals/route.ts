@@ -79,3 +79,6 @@ export async function POST(req: NextRequest) {
 
 // feat: aggregate revenue and expense KPIs
 // 2026-03-04T10:21:00
+
+// feat: refresh analytics after new transactions
+// 2026-04-04T15:56:00
