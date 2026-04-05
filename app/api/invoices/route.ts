@@ -69,3 +69,6 @@ export async function POST(req: NextRequest) {
 
 // feat: build time-series revenue trend endpoint
 // 2026-03-06T11:32:00
+
+// feat: create expense category color mapping
+// 2026-04-05T16:07:00
