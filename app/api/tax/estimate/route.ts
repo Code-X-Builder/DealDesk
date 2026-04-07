@@ -61,3 +61,6 @@ export async function GET(req: NextRequest) {
 
 // feat: group expenses for breakdown charts
 // 2026-03-07T12:43:00
+
+// feat: add empty states for all dashboard modules
+// 2026-04-07T17:18:00
