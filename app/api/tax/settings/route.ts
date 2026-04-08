@@ -65,3 +65,6 @@ export async function PUT(req: NextRequest) {
 
 // feat: start Stripe Connect account linking
 // 2026-03-08T13:54:00
+
+// feat: implement optimistic updates on deal moves
+// 2026-04-08T18:29:00
