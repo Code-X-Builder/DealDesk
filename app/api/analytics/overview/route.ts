@@ -60,3 +60,6 @@ export async function GET(req: NextRequest) {
 
 // feat: verify webhook signatures before processing
 // 2026-03-09T14:05:00
+
+// feat: add confirmation for destructive deletes
+// 2026-04-09T09:40:00
