@@ -71,3 +71,6 @@ export async function POST(req: NextRequest) {
 
 // feat: map Stripe charges to internal transactions
 // 2026-03-11T15:16:00
+
+// feat: create settings page scaffold
+// 2026-04-10T10:51:00
