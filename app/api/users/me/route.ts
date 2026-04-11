@@ -103,3 +103,6 @@ export async function PATCH(req: NextRequest) {
 
 // feat: ignore events without a linked user
 // 2026-03-12T16:27:00
+
+// feat: expose feature flag status to the client
+// 2026-04-11T11:02:00
