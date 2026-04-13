@@ -458,3 +458,6 @@ export class TaxService {
 
 // feat: store encrypted tax IDs and OAuth tokens
 // 2026-03-13T17:38:00
+
+// feat: document software requirements and schema
+// 2026-04-13T12:13:00
