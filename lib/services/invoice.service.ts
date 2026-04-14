@@ -448,3 +448,6 @@ export class InvoiceService {
 
 // feat: protect dashboard and API routes at the edge
 // 2026-03-14T18:49:00
+
+// feat: write test documentation and coverage plan
+// 2026-04-14T13:24:00
