@@ -544,3 +544,6 @@ export class PaymentService {
 
 // feat: exclude auth and health from rate limit and auth
 // 2026-03-16T09:00:00
+
+// feat: add Jest config with 80 percent coverage threshold
+// 2026-04-15T14:35:00
