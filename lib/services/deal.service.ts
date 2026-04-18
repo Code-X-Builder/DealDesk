@@ -398,3 +398,6 @@ export class DealService {
 
 // feat: create onboarding multi-step form
 // 2026-03-18T11:22:00
+
+// feat: unit test invoice total recalculation
+// 2026-04-18T16:57:00
