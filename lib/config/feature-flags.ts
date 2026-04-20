@@ -27,3 +27,6 @@ export function isPlaidEnabled(): boolean {
 
 // feat: improve error mapping and consistent API errors
 // 2026-03-20T13:44:00
+
+// feat: test tax estimate route happy path
+// 2026-04-20T18:19:00
