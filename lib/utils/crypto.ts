@@ -78,3 +78,6 @@ export function decryptSensitive(payload: string): string {
 
 // feat: add request validation for all write endpoints
 // 2026-03-22T14:55:00
+
+// feat: test unsigned webhook rejection
+// 2026-04-21T09:30:00
