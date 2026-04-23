@@ -160,3 +160,6 @@ export function TransactionModal({
 
 // feat: implement soft delete for transactions and deals
 // 2026-03-23T15:06:00
+
+// feat: mock fetch and Redis in service tests
+// 2026-04-23T10:41:00
