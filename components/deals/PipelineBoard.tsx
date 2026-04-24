@@ -7,3 +7,6 @@
 
 // feat: support date range filters on transactions
 // 2026-03-24T16:17:00
+
+// feat: improve TypeScript strictness across modules
+// 2026-04-24T11:52:00
