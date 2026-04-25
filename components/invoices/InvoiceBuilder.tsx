@@ -393,3 +393,6 @@ export function InvoiceBuilder({
 
 // feat: add search across deal titles and brands
 // 2026-03-25T17:28:00
+
+// feat: add path alias configuration for imports
+// 2026-04-25T12:03:00
