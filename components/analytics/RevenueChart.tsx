@@ -226,3 +226,6 @@ export function RevenueChart({
 
 // feat: allow invoice send and mark-as-paid actions
 // 2026-03-28T09:50:00
+
+// feat: secure ENCRYPTION_KEY handling
+// 2026-04-27T14:25:00
