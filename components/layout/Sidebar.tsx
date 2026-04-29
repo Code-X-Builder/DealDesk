@@ -112,3 +112,6 @@ export function Sidebar() {
 
 // feat: show tax estimate progress through the year
 // 2026-03-29T10:01:00
+
+// feat: add Sentry and Axiom hooks as optional
+// 2026-04-29T15:36:00
