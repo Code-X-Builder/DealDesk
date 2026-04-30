@@ -71,3 +71,6 @@ export const config = {
 
 // feat: display estimated payment due dates
 // 2026-03-30T11:12:00
+
+// feat: implement structured logging helpers
+// 2026-04-30T16:47:00
