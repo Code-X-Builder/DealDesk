@@ -306,3 +306,6 @@ Designed and developed by **Code-X-Builder**.
 
 // feat: support state tax rate override in settings
 // 2026-04-02T13:34:00
+
+// feat: polish Framer Motion page transitions
+// 2026-05-02T18:09:00
