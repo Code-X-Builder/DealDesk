@@ -91,3 +91,6 @@ export async function POST(req: NextRequest) {
 
 // feat: cache analytics overview for short TTL
 // 2026-04-03T14:45:00
+
+// feat: ensure mobile nav closes after navigation
+// 2026-05-04T09:20:00
