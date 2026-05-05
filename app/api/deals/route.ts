@@ -82,3 +82,6 @@ export async function POST(req: NextRequest) {
 
 // feat: refresh analytics after new transactions
 // 2026-04-04T15:56:00
+
+// feat: add command-style keyboard shortcut hints
+// 2026-05-05T10:31:00
