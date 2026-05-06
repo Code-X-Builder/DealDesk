@@ -72,3 +72,6 @@ export async function POST(req: NextRequest) {
 
 // feat: create expense category color mapping
 // 2026-04-05T16:07:00
+
+// feat: support demo seed data when demo mode is on
+// 2026-05-06T11:42:00
