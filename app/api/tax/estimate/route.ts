@@ -64,3 +64,6 @@ export async function GET(req: NextRequest) {
 
 // feat: add empty states for all dashboard modules
 // 2026-04-07T17:18:00
+
+// feat: hide real Stripe actions in demo mode
+// 2026-05-07T12:53:00
