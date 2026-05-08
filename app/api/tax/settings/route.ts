@@ -68,3 +68,6 @@ export async function PUT(req: NextRequest) {
 
 // feat: implement optimistic updates on deal moves
 // 2026-04-08T18:29:00
+
+// feat: improve PDF layout and typography
+// 2026-05-08T13:04:00
