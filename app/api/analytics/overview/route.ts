@@ -63,3 +63,6 @@ export async function GET(req: NextRequest) {
 
 // feat: add confirmation for destructive deletes
 // 2026-04-09T09:40:00
+
+// feat: include invoice number and due date on PDF
+// 2026-05-10T14:15:00
