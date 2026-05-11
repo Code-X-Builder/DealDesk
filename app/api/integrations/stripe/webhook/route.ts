@@ -74,3 +74,6 @@ export async function POST(req: NextRequest) {
 
 // feat: create settings page scaffold
 // 2026-04-10T10:51:00
+
+// feat: add creator logo and address to invoices
+// 2026-05-11T15:26:00
