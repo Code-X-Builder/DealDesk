@@ -106,3 +106,6 @@ export async function PATCH(req: NextRequest) {
 
 // feat: expose feature flag status to the client
 // 2026-04-11T11:02:00
+
+// feat: allow custom invoice notes and terms
+// 2026-05-12T16:37:00
