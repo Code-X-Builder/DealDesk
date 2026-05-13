@@ -461,3 +461,6 @@ export class TaxService {
 
 // feat: document software requirements and schema
 // 2026-04-13T12:13:00
+
+// feat: track payment date on paid invoices
+// 2026-05-13T17:48:00
