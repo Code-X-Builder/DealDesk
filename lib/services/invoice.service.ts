@@ -451,3 +451,6 @@ export class InvoiceService {
 
 // feat: write test documentation and coverage plan
 // 2026-04-14T13:24:00
+
+// feat: link invoices to brand deals optionally
+// 2026-05-15T18:59:00
