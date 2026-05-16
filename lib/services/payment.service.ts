@@ -547,3 +547,6 @@ export class PaymentService {
 
 // feat: add Jest config with 80 percent coverage threshold
 // 2026-04-15T14:35:00
+
+// feat: show deal value and expected close date
+// 2026-05-16T09:10:00
