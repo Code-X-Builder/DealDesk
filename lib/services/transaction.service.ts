@@ -10,3 +10,6 @@
 
 // feat: unit test tax service progressive brackets
 // 2026-04-16T15:46:00
+
+// feat: add probability or confidence on deals
+// 2026-05-17T10:21:00
