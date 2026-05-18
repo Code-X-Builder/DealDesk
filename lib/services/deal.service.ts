@@ -401,3 +401,6 @@ export class DealService {
 
 // feat: unit test invoice total recalculation
 // 2026-04-18T16:57:00
+
+// feat: create deal activity timeline scaffold
+// 2026-05-18T11:32:00
