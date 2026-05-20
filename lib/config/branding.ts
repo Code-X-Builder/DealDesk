@@ -34,3 +34,6 @@ export const branding = {
 
 // feat: unit test Stripe webhook idempotency
 // 2026-04-19T17:08:00
+
+// feat: categorize transactions for tax reports
+// 2026-05-20T12:43:00
