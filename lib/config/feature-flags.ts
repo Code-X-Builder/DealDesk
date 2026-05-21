@@ -30,3 +30,6 @@ export function isPlaidEnabled(): boolean {
 
 // feat: test tax estimate route happy path
 // 2026-04-20T18:19:00
+
+// feat: mark deductible expenses for estimates
+// 2026-05-21T13:54:00
