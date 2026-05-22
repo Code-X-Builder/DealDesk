@@ -81,3 +81,6 @@ export function decryptSensitive(payload: string): string {
 
 // feat: test unsigned webhook rejection
 // 2026-04-21T09:30:00
+
+// feat: exclude non-taxable income from SE base
+// 2026-05-22T14:05:00
