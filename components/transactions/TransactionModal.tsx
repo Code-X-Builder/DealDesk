@@ -163,3 +163,6 @@ export function TransactionModal({
 
 // feat: mock fetch and Redis in service tests
 // 2026-04-23T10:41:00
+
+// feat: recompute estimates when transactions change
+// 2026-05-23T15:16:00
