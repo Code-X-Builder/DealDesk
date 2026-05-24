@@ -10,3 +10,6 @@
 
 // feat: improve TypeScript strictness across modules
 // 2026-04-24T11:52:00
+
+// feat: show quarterly breakdown with remaining liability
+// 2026-05-24T16:27:00
