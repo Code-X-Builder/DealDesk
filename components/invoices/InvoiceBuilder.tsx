@@ -396,3 +396,6 @@ export function InvoiceBuilder({
 
 // feat: add path alias configuration for imports
 // 2026-04-25T12:03:00
+
+// feat: add year selector on tax and analytics pages
+// 2026-05-26T17:38:00
