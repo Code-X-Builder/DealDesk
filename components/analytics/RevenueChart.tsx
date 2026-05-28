@@ -229,3 +229,6 @@ export function RevenueChart({
 
 // feat: secure ENCRYPTION_KEY handling
 // 2026-04-27T14:25:00
+
+// feat: support sponsorship platform and product income types
+// 2026-05-28T09:00:00
