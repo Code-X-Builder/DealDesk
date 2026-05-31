@@ -74,3 +74,6 @@ export const config = {
 
 // feat: implement structured logging helpers
 // 2026-04-30T16:47:00
+
+// feat: reconcile Stripe payouts with ledger entries
+// 2026-05-31T11:22:00
