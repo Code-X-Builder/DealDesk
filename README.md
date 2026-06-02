@@ -309,3 +309,6 @@ Designed and developed by **Code-X-Builder**.
 
 // feat: polish Framer Motion page transitions
 // 2026-05-02T18:09:00
+
+// feat: surface sync status for Stripe connection
+// 2026-06-02T13:44:00
