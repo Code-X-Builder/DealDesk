@@ -94,3 +94,6 @@ export async function POST(req: NextRequest) {
 
 // feat: ensure mobile nav closes after navigation
 // 2026-05-04T09:20:00
+
+// feat: allow disconnect of Stripe Connect account
+// 2026-06-03T14:55:00
