@@ -85,3 +85,6 @@ export async function POST(req: NextRequest) {
 
 // feat: add command-style keyboard shortcut hints
 // 2026-05-05T10:31:00
+
+// feat: encrypt and rotate stored Connect tokens
+// 2026-06-04T15:06:00
