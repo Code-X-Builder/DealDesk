@@ -75,3 +75,6 @@ export async function POST(req: NextRequest) {
 
 // feat: support demo seed data when demo mode is on
 // 2026-05-06T11:42:00
+
+// feat: add rate limit headers on API responses
+// 2026-06-06T16:17:00
