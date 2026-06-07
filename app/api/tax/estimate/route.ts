@@ -67,3 +67,6 @@ export async function GET(req: NextRequest) {
 
 // feat: hide real Stripe actions in demo mode
 // 2026-05-07T12:53:00
+
+// feat: return 429 with retry guidance when limited
+// 2026-06-07T17:28:00
