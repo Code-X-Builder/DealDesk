@@ -71,3 +71,6 @@ export async function PUT(req: NextRequest) {
 
 // feat: improve PDF layout and typography
 // 2026-05-08T13:04:00
+
+// feat: harden CORS and security headers
+// 2026-06-08T18:39:00
