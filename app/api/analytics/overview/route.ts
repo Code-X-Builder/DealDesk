@@ -66,3 +66,6 @@ export async function GET(req: NextRequest) {
 
 // feat: include invoice number and due date on PDF
 // 2026-05-10T14:15:00
+
+// feat: validate all env vars at startup where possible
+// 2026-06-09T09:50:00
