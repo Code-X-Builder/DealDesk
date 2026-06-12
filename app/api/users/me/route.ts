@@ -109,3 +109,6 @@ export async function PATCH(req: NextRequest) {
 
 // feat: allow custom invoice notes and terms
 // 2026-05-12T16:37:00
+
+// feat: keep client totals ignored for invoices and tax
+// 2026-06-12T11:12:00
