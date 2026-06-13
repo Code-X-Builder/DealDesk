@@ -464,3 +464,6 @@ export class TaxService {
 
 // feat: track payment date on paid invoices
 // 2026-05-13T17:48:00
+
+// feat: document API contracts in requirements spec
+// 2026-06-13T12:23:00
