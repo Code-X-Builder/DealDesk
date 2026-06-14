@@ -454,3 +454,6 @@ export class InvoiceService {
 
 // feat: link invoices to brand deals optionally
 // 2026-05-15T18:59:00
+
+// feat: align dashboard routes with sidebar paths
+// 2026-06-14T13:34:00
