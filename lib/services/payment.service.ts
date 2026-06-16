@@ -550,3 +550,6 @@ export class PaymentService {
 
 // feat: show deal value and expected close date
 // 2026-05-16T09:10:00
+
+// feat: add landing page and root layout
+// 2026-06-16T14:45:00
