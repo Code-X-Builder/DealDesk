@@ -13,3 +13,6 @@
 
 // feat: add probability or confidence on deals
 // 2026-05-17T10:21:00
+
+// feat: create Overview dashboard page
+// 2026-06-17T15:56:00
