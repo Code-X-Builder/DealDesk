@@ -404,3 +404,6 @@ export class DealService {
 
 // feat: create deal activity timeline scaffold
 // 2026-05-18T11:32:00
+
+// feat: build Deals page with pipeline board
+// 2026-06-18T16:07:00
