@@ -37,3 +37,6 @@ export const branding = {
 
 // feat: categorize transactions for tax reports
 // 2026-05-20T12:43:00
+
+// feat: build Invoices page with list and builder
+// 2026-06-19T17:18:00
