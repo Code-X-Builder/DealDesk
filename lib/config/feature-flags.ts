@@ -33,3 +33,6 @@ export function isPlaidEnabled(): boolean {
 
 // feat: mark deductible expenses for estimates
 // 2026-05-21T13:54:00
+
+// feat: build Settings page for profile and tax
+// 2026-06-20T18:29:00
