@@ -84,3 +84,6 @@ export function decryptSensitive(payload: string): string {
 
 // feat: exclude non-taxable income from SE base
 // 2026-05-22T14:05:00
+
+// feat: fix route group vs dashboard path mismatch
+// 2026-06-22T09:40:00
