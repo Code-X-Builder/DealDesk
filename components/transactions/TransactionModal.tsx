@@ -166,3 +166,6 @@ export function TransactionModal({
 
 // feat: recompute estimates when transactions change
 // 2026-05-23T15:16:00
+
+// feat: add lib/db supabase and redis clients
+// 2026-06-23T10:51:00
