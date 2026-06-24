@@ -13,3 +13,6 @@
 
 // feat: show quarterly breakdown with remaining liability
 // 2026-05-24T16:27:00
+
+// feat: add Zod schemas for user transaction deal invoice tax
+// 2026-06-24T11:02:00
