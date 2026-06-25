@@ -399,3 +399,6 @@ export function InvoiceBuilder({
 
 // feat: add year selector on tax and analytics pages
 // 2026-05-26T17:38:00
+
+// feat: add database types and shared error utilities
+// 2026-06-25T12:13:00
