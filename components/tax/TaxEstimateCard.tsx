@@ -13,3 +13,6 @@
 
 // feat: implement revenue by source breakdown
 // 2026-05-27T18:49:00
+
+// feat: implement auth logger and cache helpers
+// 2026-06-27T13:24:00
