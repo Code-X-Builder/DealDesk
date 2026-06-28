@@ -232,3 +232,6 @@ export function RevenueChart({
 
 // feat: support sponsorship platform and product income types
 // 2026-05-28T09:00:00
+
+// feat: add categories and tax-brackets config
+// 2026-06-28T14:35:00
