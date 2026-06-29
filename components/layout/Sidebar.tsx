@@ -118,3 +118,6 @@ export function Sidebar() {
 
 // feat: import platform payouts as transactions
 // 2026-05-29T10:11:00
+
+// feat: complete missing modules for production build
+// 2026-06-29T15:46:00
