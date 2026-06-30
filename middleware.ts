@@ -77,3 +77,6 @@ export const config = {
 
 // feat: reconcile Stripe payouts with ledger entries
 // 2026-05-31T11:22:00
+
+// feat: improve accessibility of pipeline and tables
+// 2026-06-30T16:57:00
