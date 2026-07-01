@@ -1890,3 +1890,6 @@ EMAIL_FROM=noreply@creatorhub.com
 
 // feat: prevent duplicate imports via event id
 // 2026-06-01T12:33:00
+
+// feat: add ARIA labels to interactive controls
+// 2026-07-01T17:08:00
