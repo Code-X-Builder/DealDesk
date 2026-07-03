@@ -312,3 +312,6 @@ Designed and developed by **Code-X-Builder**.
 
 // feat: surface sync status for Stripe connection
 // 2026-06-02T13:44:00
+
+// feat: ensure keyboard focus order on modals
+// 2026-07-03T18:19:00
