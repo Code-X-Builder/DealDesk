@@ -97,3 +97,6 @@ export async function POST(req: NextRequest) {
 
 // feat: allow disconnect of Stripe Connect account
 // 2026-06-03T14:55:00
+
+// feat: optimize bundle with dynamic imports
+// 2026-07-04T09:30:00
