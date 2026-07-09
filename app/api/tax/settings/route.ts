@@ -74,3 +74,6 @@ export async function PUT(req: NextRequest) {
 
 // feat: harden CORS and security headers
 // 2026-06-08T18:39:00
+
+// feat: support bulk categorize for transactions
+// 2026-07-09T13:14:00
