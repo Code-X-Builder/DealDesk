@@ -69,3 +69,6 @@ export async function GET(req: NextRequest) {
 
 // feat: validate all env vars at startup where possible
 // 2026-06-09T09:50:00
+
+// feat: add export CSV for transactions and deals
+// 2026-07-10T14:25:00
