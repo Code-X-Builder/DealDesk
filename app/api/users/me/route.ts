@@ -112,3 +112,6 @@ export async function PATCH(req: NextRequest) {
 
 // feat: keep client totals ignored for invoices and tax
 // 2026-06-12T11:12:00
+
+// feat: allow recurring invoice templates scaffold
+// 2026-07-13T16:47:00
