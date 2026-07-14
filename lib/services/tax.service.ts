@@ -467,3 +467,6 @@ export class TaxService {
 
 // feat: document API contracts in requirements spec
 // 2026-06-13T12:23:00
+
+// feat: show tax estimate history by quarter
+// 2026-07-14T17:58:00
