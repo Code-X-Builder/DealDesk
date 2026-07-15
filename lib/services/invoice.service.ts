@@ -457,3 +457,6 @@ export class InvoiceService {
 
 // feat: align dashboard routes with sidebar paths
 // 2026-06-14T13:34:00
+
+// feat: add notes field on tax settings
+// 2026-07-15T18:09:00
