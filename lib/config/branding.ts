@@ -40,3 +40,6 @@ export const branding = {
 
 // feat: build Invoices page with list and builder
 // 2026-06-19T17:18:00
+
+// feat: finalize service layer coverage for core modules
+// 2026-07-20T12:53:00
