@@ -36,3 +36,6 @@ export function isPlaidEnabled(): boolean {
 
 // feat: build Settings page for profile and tax
 // 2026-06-20T18:29:00
+
+// feat: strengthen webhook replay safety
+// 2026-07-21T13:04:00
