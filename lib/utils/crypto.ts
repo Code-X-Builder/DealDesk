@@ -87,3 +87,6 @@ export function decryptSensitive(payload: string): string {
 
 // feat: fix route group vs dashboard path mismatch
 // 2026-06-22T09:40:00
+
+// feat: document Stripe local webhook setup
+// 2026-07-22T14:15:00
