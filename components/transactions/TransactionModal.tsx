@@ -169,3 +169,6 @@ export function TransactionModal({
 
 // feat: add lib/db supabase and redis clients
 // 2026-06-23T10:51:00
+
+// feat: polish onboarding success and next steps
+// 2026-07-24T15:26:00
