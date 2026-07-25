@@ -16,3 +16,6 @@
 
 // feat: add Zod schemas for user transaction deal invoice tax
 // 2026-06-24T11:02:00
+
+// feat: add profile avatar and display name
+// 2026-07-25T16:37:00
