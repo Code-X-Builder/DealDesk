@@ -402,3 +402,6 @@ export function InvoiceBuilder({
 
 // feat: add database types and shared error utilities
 // 2026-06-25T12:13:00
+
+// feat: support timezone preference for reports
+// 2026-07-26T17:48:00
