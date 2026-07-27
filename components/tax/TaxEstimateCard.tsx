@@ -16,3 +16,6 @@
 
 // feat: implement auth logger and cache helpers
 // 2026-06-27T13:24:00
+
+// feat: format currency consistently across UI
+// 2026-07-27T18:59:00
