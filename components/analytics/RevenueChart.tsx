@@ -235,3 +235,6 @@ export function RevenueChart({
 
 // feat: add categories and tax-brackets config
 // 2026-06-28T14:35:00
+
+// feat: localize date formats for dashboards
+// 2026-07-28T09:10:00
