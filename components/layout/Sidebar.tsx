@@ -121,3 +121,6 @@ export function Sidebar() {
 
 // feat: complete missing modules for production build
 // 2026-06-29T15:46:00
+
+// feat: add empty illustration for first-time users
+// 2026-07-30T10:21:00
