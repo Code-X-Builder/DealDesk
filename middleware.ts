@@ -80,3 +80,6 @@ export const config = {
 
 // feat: improve accessibility of pipeline and tables
 // 2026-06-30T16:57:00
+
+// feat: create help links to documentation
+// 2026-07-31T11:32:00
