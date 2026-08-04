@@ -100,3 +100,6 @@ export async function POST(req: NextRequest) {
 
 // feat: optimize bundle with dynamic imports
 // 2026-07-04T09:30:00
+
+// feat: add subtle motion to pipeline card moves
+// 2026-08-04T14:05:00
