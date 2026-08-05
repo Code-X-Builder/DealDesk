@@ -91,3 +91,6 @@ export async function POST(req: NextRequest) {
 
 // feat: lazy load chart and PDF libraries
 // 2026-07-05T10:41:00
+
+// feat: prevent layout shift on skeleton load
+// 2026-08-05T15:16:00
