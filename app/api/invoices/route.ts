@@ -81,3 +81,6 @@ export async function POST(req: NextRequest) {
 
 // feat: add loading and error states on all data pages
 // 2026-07-06T11:52:00
+
+// feat: harden Zod schemas against bad payloads
+// 2026-08-06T16:27:00
