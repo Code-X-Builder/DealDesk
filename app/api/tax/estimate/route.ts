@@ -73,3 +73,6 @@ export async function GET(req: NextRequest) {
 
 // feat: create consistent toast notification system
 // 2026-07-08T12:03:00
+
+// feat: return clear validation error messages
+// 2026-08-07T17:38:00
