@@ -77,3 +77,6 @@ export async function PUT(req: NextRequest) {
 
 // feat: support bulk categorize for transactions
 // 2026-07-09T13:14:00
+
+// feat: log failed Stripe events for inspection
+// 2026-08-09T18:49:00
