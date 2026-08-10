@@ -72,3 +72,6 @@ export async function GET(req: NextRequest) {
 
 // feat: add export CSV for transactions and deals
 // 2026-07-10T14:25:00
+
+// feat: ignore unhandled Stripe event types safely
+// 2026-08-10T09:00:00
