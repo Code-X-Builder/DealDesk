@@ -83,3 +83,6 @@ export async function POST(req: NextRequest) {
 
 // feat: implement invoice duplicate action
 // 2026-07-11T15:36:00
+
+// feat: map customer email from Stripe when present
+// 2026-08-11T10:11:00
