@@ -115,3 +115,6 @@ export async function PATCH(req: NextRequest) {
 
 // feat: allow recurring invoice templates scaffold
 // 2026-07-13T16:47:00
+
+// feat: attach metadata to imported transactions
+// 2026-08-12T11:22:00
