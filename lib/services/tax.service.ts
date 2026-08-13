@@ -470,3 +470,6 @@ export class TaxService {
 
 // feat: show tax estimate history by quarter
 // 2026-07-14T17:58:00
+
+// feat: allow manual match of Stripe charge to deal
+// 2026-08-13T12:33:00
