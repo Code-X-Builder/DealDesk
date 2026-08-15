@@ -460,3 +460,6 @@ export class InvoiceService {
 
 // feat: add notes field on tax settings
 // 2026-07-15T18:09:00
+
+// feat: show unmatched Stripe payments in a queue
+// 2026-08-15T13:44:00
