@@ -556,3 +556,6 @@ export class PaymentService {
 
 // feat: cache invalidation on relevant writes
 // 2026-07-16T09:20:00
+
+// feat: create integration settings panel
+// 2026-08-16T14:55:00
