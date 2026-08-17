@@ -19,3 +19,6 @@
 
 // feat: improve Redis key naming conventions
 // 2026-07-17T10:31:00
+
+// feat: feature-flag YouTube and Plaid entry points
+// 2026-08-17T15:06:00
