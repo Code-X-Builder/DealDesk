@@ -410,3 +410,6 @@ export class DealService {
 
 // feat: add request id for tracing
 // 2026-07-19T11:42:00
+
+// feat: prepare placeholders for future bank sync
+// 2026-08-18T16:17:00
