@@ -43,3 +43,6 @@ export const branding = {
 
 // feat: finalize service layer coverage for core modules
 // 2026-07-20T12:53:00
+
+// feat: prepare placeholders for YouTube revenue import
+// 2026-08-20T17:28:00
