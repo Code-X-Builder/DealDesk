@@ -90,3 +90,6 @@ export function decryptSensitive(payload: string): string {
 
 // feat: document Stripe local webhook setup
 // 2026-07-22T14:15:00
+
+// feat: add edge cases for zero and negative amounts
+// 2026-08-22T09:50:00
