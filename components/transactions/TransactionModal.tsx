@@ -172,3 +172,6 @@ export function TransactionModal({
 
 // feat: polish onboarding success and next steps
 // 2026-07-24T15:26:00
+
+// feat: test tax brackets boundary conditions
+// 2026-08-23T10:01:00
