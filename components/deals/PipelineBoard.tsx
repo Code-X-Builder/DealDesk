@@ -19,3 +19,6 @@
 
 // feat: add profile avatar and display name
 // 2026-07-25T16:37:00
+
+// feat: test invoice with multiple line items
+// 2026-08-24T11:12:00
