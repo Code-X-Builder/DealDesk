@@ -405,3 +405,6 @@ export function InvoiceBuilder({
 
 // feat: support timezone preference for reports
 // 2026-07-26T17:48:00
+
+// feat: snapshot critical API response shapes
+// 2026-08-26T12:23:00
