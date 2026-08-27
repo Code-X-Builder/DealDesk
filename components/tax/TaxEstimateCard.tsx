@@ -19,3 +19,6 @@
 
 // feat: format currency consistently across UI
 // 2026-07-27T18:59:00
+
+// feat: document known gaps and MVP status
+// 2026-08-27T13:34:00
