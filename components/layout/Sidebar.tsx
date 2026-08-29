@@ -124,3 +124,6 @@ export function Sidebar() {
 
 // feat: add empty illustration for first-time users
 // 2026-07-30T10:21:00
+
+// feat: stabilize core dashboard navigation
+// 2026-08-29T15:56:00
