@@ -83,3 +83,6 @@ export const config = {
 
 // feat: create help links to documentation
 // 2026-07-31T11:32:00
+
+// feat: ensure middleware and sidebar path parity
+// 2026-08-31T16:07:00
