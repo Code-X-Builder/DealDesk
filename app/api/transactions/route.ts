@@ -103,3 +103,6 @@ export async function POST(req: NextRequest) {
 
 // feat: add subtle motion to pipeline card moves
 // 2026-08-04T14:05:00
+
+// feat: refine transaction filters and date presets
+// 2026-09-03T09:40:00
