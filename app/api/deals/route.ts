@@ -94,3 +94,6 @@ export async function POST(req: NextRequest) {
 
 // feat: prevent layout shift on skeleton load
 // 2026-08-05T15:16:00
+
+// feat: add quick-add for common expense categories
+// 2026-09-05T10:51:00
