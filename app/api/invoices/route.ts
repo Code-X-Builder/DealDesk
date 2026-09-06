@@ -84,3 +84,6 @@ export async function POST(req: NextRequest) {
 
 // feat: harden Zod schemas against bad payloads
 // 2026-08-06T16:27:00
+
+// feat: improve deal card density on pipeline
+// 2026-09-06T11:02:00
