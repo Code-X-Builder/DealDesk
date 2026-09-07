@@ -76,3 +76,6 @@ export async function GET(req: NextRequest) {
 
 // feat: return clear validation error messages
 // 2026-08-07T17:38:00
+
+// feat: support keyboard move between deal stages
+// 2026-09-07T12:13:00
