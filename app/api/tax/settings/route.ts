@@ -80,3 +80,6 @@ export async function PUT(req: NextRequest) {
 
 // feat: log failed Stripe events for inspection
 // 2026-08-09T18:49:00
+
+// feat: add invoice preview print stylesheet
+// 2026-09-08T13:24:00
