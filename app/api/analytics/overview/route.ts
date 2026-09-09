@@ -75,3 +75,6 @@ export async function GET(req: NextRequest) {
 
 // feat: ignore unhandled Stripe event types safely
 // 2026-08-10T09:00:00
+
+// feat: include payment instructions on PDF
+// 2026-09-09T14:35:00
