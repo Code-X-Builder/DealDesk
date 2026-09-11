@@ -86,3 +86,6 @@ export async function POST(req: NextRequest) {
 
 // feat: map customer email from Stripe when present
 // 2026-08-11T10:11:00
+
+// feat: show tax estimate confidence notes
+// 2026-09-11T15:46:00
