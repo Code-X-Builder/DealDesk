@@ -118,3 +118,6 @@ export async function PATCH(req: NextRequest) {
 
 // feat: attach metadata to imported transactions
 // 2026-08-12T11:22:00
+
+// feat: allow estimated vs actual tax comparison scaffold
+// 2026-09-12T16:57:00
