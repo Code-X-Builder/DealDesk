@@ -473,3 +473,6 @@ export class TaxService {
 
 // feat: allow manual match of Stripe charge to deal
 // 2026-08-13T12:33:00
+
+// feat: add analytics date range selector
+// 2026-09-13T17:08:00
