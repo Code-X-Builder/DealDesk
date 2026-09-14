@@ -463,3 +463,6 @@ export class InvoiceService {
 
 // feat: show unmatched Stripe payments in a queue
 // 2026-08-15T13:44:00
+
+// feat: compare period-over-period revenue
+// 2026-09-14T18:19:00
