@@ -559,3 +559,6 @@ export class PaymentService {
 
 // feat: create integration settings panel
 // 2026-08-16T14:55:00
+
+// feat: highlight top expense categories
+// 2026-09-16T09:30:00
