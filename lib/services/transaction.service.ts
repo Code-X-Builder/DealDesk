@@ -22,3 +22,6 @@
 
 // feat: feature-flag YouTube and Plaid entry points
 // 2026-08-17T15:06:00
+
+// feat: secure service role usage on server only
+// 2026-09-17T10:41:00
