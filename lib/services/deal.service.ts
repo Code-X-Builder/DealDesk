@@ -413,3 +413,6 @@ export class DealService {
 
 // feat: prepare placeholders for future bank sync
 // 2026-08-18T16:17:00
+
+// feat: never expose service keys to the client
+// 2026-09-18T11:52:00
