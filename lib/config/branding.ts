@@ -46,3 +46,6 @@ export const branding = {
 
 // feat: prepare placeholders for YouTube revenue import
 // 2026-08-20T17:28:00
+
+// feat: rotate encryption key procedure docs
+// 2026-09-19T12:03:00
