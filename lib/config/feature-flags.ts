@@ -42,3 +42,6 @@ export function isPlaidEnabled(): boolean {
 
 // feat: increase test coverage on payment service
 // 2026-08-21T18:39:00
+
+// feat: add backup note for Supabase data
+// 2026-09-20T13:14:00
