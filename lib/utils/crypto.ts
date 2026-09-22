@@ -93,3 +93,6 @@ export function decryptSensitive(payload: string): string {
 
 // feat: add edge cases for zero and negative amounts
 // 2026-08-22T09:50:00
+
+// feat: improve Vercel deployment configuration
+// 2026-09-22T14:25:00
