@@ -175,3 +175,6 @@ export function TransactionModal({
 
 // feat: test tax brackets boundary conditions
 // 2026-08-23T10:01:00
+
+// feat: set production Auth0 and Stripe callbacks
+// 2026-09-23T15:36:00
