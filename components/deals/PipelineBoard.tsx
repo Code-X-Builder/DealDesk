@@ -22,3 +22,6 @@
 
 // feat: test invoice with multiple line items
 // 2026-08-24T11:12:00
+
+// feat: finalize environment example completeness
+// 2026-09-24T16:47:00
