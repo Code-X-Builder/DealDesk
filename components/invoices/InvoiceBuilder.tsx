@@ -408,3 +408,6 @@ export function InvoiceBuilder({
 
 // feat: snapshot critical API response shapes
 // 2026-08-26T12:23:00
+
+// feat: clean up unused imports and dead code
+// 2026-09-25T17:58:00
