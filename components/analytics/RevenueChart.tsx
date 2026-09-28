@@ -241,3 +241,6 @@ export function RevenueChart({
 
 // feat: prioritize remaining build blockers
 // 2026-08-28T14:45:00
+
+// feat: require tests before merge in docs
+// 2026-09-28T09:20:00
