@@ -127,3 +127,6 @@ export function Sidebar() {
 
 // feat: stabilize core dashboard navigation
 // 2026-08-29T15:56:00
+
+// feat: write contributor and security notes
+// 2026-09-29T10:31:00
