@@ -86,3 +86,6 @@ export const config = {
 
 // feat: ensure middleware and sidebar path parity
 // 2026-08-31T16:07:00
+
+// chore: complete creator business hub foundation
+// 2026-09-30T11:42:00
